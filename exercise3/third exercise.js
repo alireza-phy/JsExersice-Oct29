@@ -1,6 +1,6 @@
 // !=================== Alireza Abbasi ===================! //
 
-//          =========== second exercise ============      //
+//          =========== third problem ============      //
 
 
 function Goal (n,a,b,arr) {

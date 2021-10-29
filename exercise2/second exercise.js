@@ -1,6 +1,6 @@
 // !=================== Alireza Abbasi ===================! //
 
-//          =========== second exercise ============      //
+//          =========== second problem ============      //
 
 function stringPass(n, k, str) {
     let str1 = ''
